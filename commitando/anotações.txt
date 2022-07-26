@@ -1,0 +1,3 @@
+este exercício é referente a apredizagem do git e github.
+
+iniciando o git, adicionando, fazendo o commit e também clonando na máquina pra alteração e enviando o update.
